@@ -1,0 +1,9 @@
+Building Polybit
+
+See doc/readme-qt.rst for instructions on building Polybit-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Polybit.
+
+See doc/build-*.txt for instructions on building polybitd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Polybit.
