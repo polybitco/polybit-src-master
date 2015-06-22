@@ -1,26 +1,27 @@
 Polybit integration/staging tree
 ================================
 
-http://www.polybit.org
+http://www.polybit.co
 
 Copyright (c) 2009-2013 Bitcoin Developers
-Copyright (c) 2011-2013 Polybit Developers
+Copyright (c) 2011-2013 Litecoin Developers
+Copyright (c) 2014-2015 Polybit Developers
+
 
 What is Polybit?
 ----------------
 
 Polybit is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
+ - 3.0 minute block targets
+ - subsidy halves in 675k blocks 
+ - ~150 million total coins
 
 The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+ - 100 coins per block
+ - 24h to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Polybit client sofware, see http://www.polybit.org.
-
+the Polybit client sofware, see https://bitcointalk.org/index.php?topic=1079917.0;all
 License
 -------
 
